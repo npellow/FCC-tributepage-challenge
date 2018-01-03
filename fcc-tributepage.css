@@ -1,0 +1,45 @@
+body {
+    background-color: #d9d9d9;
+  }
+  
+  #main {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 1%;
+    background-color: #fff;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+    padding-bottom: 1%;
+    font-style: italic;
+  }
+  
+  p {
+    padding-top: 2%;
+  }
+  
+  h5 {
+    text-align: center;
+    font-style: italic;
+    padding-top: 2%;
+  }
+  
+  hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    border-color: #d9d9d9;
+  }
+  
+  #link {
+    text-align: center;
+  }
